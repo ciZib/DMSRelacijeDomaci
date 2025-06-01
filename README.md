@@ -1,6 +1,6 @@
 # DMSRelacijeDomaci
 Domaci iz relacija automatizovan (FON 2. godina)
-*OBAVEZNO KORISTITI CHROMIUM PRETRAZIVAC*
+*OBAVEZNO KORISTITI PRETRAZIVAC NA CHROMIUM PLATFORMI (Chrome, opera...)*
 
 Uputstvo za koriscenje:
 1. Izabrati bin\debug ili bin\release verziju domaceg
