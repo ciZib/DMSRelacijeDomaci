@@ -7,6 +7,7 @@ Uputstvo za koriscenje:
 3. upaliti program.
 
 U slucaju da program baci gresku (index was outside the bounds of the array), proveriti da li je kraj fajla broj.
+
 U slucaju da nije (desi se da kopirate i neki blank space nakon tablice), obrisati do broja.
 
 Ako zelite da proverite da li je relacija simetricna, refleksivna i tranzitivna respektivno, pratiti sledece korake:
