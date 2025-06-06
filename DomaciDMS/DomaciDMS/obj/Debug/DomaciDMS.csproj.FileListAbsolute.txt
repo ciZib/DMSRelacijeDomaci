@@ -1,6 +1,0 @@
-C:\Users\balka\source\repos\DomaciDMS\DomaciDMS\bin\Debug\DomaciDMS.exe.config
-C:\Users\balka\source\repos\DomaciDMS\DomaciDMS\bin\Debug\DomaciDMS.exe
-C:\Users\balka\source\repos\DomaciDMS\DomaciDMS\bin\Debug\DomaciDMS.pdb
-C:\Users\balka\source\repos\DomaciDMS\DomaciDMS\obj\Debug\DomaciDMS.csproj.CoreCompileInputs.cache
-C:\Users\balka\source\repos\DomaciDMS\DomaciDMS\obj\Debug\DomaciDMS.exe
-C:\Users\balka\source\repos\DomaciDMS\DomaciDMS\obj\Debug\DomaciDMS.pdb
